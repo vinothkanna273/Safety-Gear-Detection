@@ -14,7 +14,7 @@
 2. Install the required packages: pip install -r requirements.txt
 
 ## Usage
-1. Run the ML image classification script: [ python main.py ]
+1. Run the ML image classification script: python main.py 
 2. Provide the video file path or use the default camera input.
 3. The script will process the video frames, detect safety vests and helmets, and display the results in real-time.
 
